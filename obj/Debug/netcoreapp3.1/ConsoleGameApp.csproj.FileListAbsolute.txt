@@ -1,0 +1,13 @@
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\bin\Debug\netcoreapp3.1\ConsoleGameApp.exe
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\bin\Debug\netcoreapp3.1\ConsoleGameApp.deps.json
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\bin\Debug\netcoreapp3.1\ConsoleGameApp.runtimeconfig.json
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\bin\Debug\netcoreapp3.1\ConsoleGameApp.runtimeconfig.dev.json
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\bin\Debug\netcoreapp3.1\ConsoleGameApp.dll
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\bin\Debug\netcoreapp3.1\ConsoleGameApp.pdb
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.csprojAssemblyReference.cache
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.AssemblyInfoInputs.cache
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.AssemblyInfo.cs
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.csproj.CoreCompileInputs.cache
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.dll
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.pdb
+C:\Rohit\RohitP\Practice\C#\ConsoleGameApp\obj\Debug\netcoreapp3.1\ConsoleGameApp.genruntimeconfig.cache

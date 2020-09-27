@@ -1,0 +1,6 @@
+Warrior,5,1
+Knight,1,1
+Assassin,9,1
+Mage,18,2
+Necromancer,7,1
+Druid,9,1
